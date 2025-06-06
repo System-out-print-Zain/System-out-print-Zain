@@ -9,5 +9,5 @@
       - Reading Inside The Machine By Jon Stokes
       - Reading Deep Learning By Ian Goodfellow, Yoshua Bengio, and Aaron Courville
       - Gaining Azure certifications
-  - 📫 How to reach me: ...
+- 📫 How to reach me: ...
       - Email: zz.mhmail@gmail.com
