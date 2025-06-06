@@ -1,13 +1,15 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-      - Full-stack engineering internship
-      - Building cool projects and systems
-      - Grinding Leetcode
-- 🌱 I’m currently learning ...
-      - Reading TCP/IP Illustrated Volume 1 By W. Richard Stevens
-      - Reading Inside The Machine By Jon Stokes
-      - Reading Deep Learning By Ian Goodfellow, Yoshua Bengio, and Aaron Courville
-      - Gaining Azure certifications
-- 📫 How to reach me: ...
-      - Email: zz.mhmail@gmail.com
+🔭 I’m currently working on ...<br>
+      Full-stack engineering internship<br>
+      Building cool projects and systems<br>
+      Grinding Leetcode<br>
+      
+🌱 I’m currently learning ...<br>
+      Reading <i>TCP/IP Illustrated Volume 1</i> By W. Richard Stevens<br>
+      Reading <i>Inside The Machine: An Illustrated Introduction to Microprocessors and Computer Architecture</i> By Jon Stokes<br>
+      Reading <i>Deep Learning</i> By Ian Goodfellow, Yoshua Bengio, and Aaron Courville<br>
+      Gaining Azure certifications<br>
+      
+📫 How to reach me: ...<br>
+      Email: zz.mhmail@gmail.com
